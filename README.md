@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=10&vCenter=true&repeat=false&width=800&height=25&lines=Rafael+Marques)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=10&color=F76909&vCenter=true&repeat=false&width=800&height=25&lines=Desenvolvedor+FullStack)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1000&height=50&separator=%3C&lines=+Tenho+21+anos+e+sou+natural+do+Esp%C3%ADrito+Santo.+Atualmente%2C+estou+cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFES;%3CAprendi+ingl%C3%AAs+de+maneira+autodidata+e+sempre+tive+interesse+em+cyber+seguran%C3%A7a.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1000&height=50&separator=%3C&lines=+Tenho+21+anos+e+sou+natural+do+Esp%C3%ADrito+Santo.+Atualmente%2C+estou+cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFES;%3CAprendi+ingl%C3%AAs+de+maneira+autodidata+e+tenho+interesse+em+cyber+seguran%C3%A7a.)](https://git.io/typing-svg)
 
 <p align="left">
 	<a href="https://github.com/Farraelll?tab=followers">
