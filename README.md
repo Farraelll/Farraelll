@@ -74,15 +74,15 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
+      srcset="https://github-stats-extended.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br"
+      srcset="https://github-stats-extended.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br"
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Farraelll" 
+      src="https://github-stats-extended.vercel.app/api?username=Farraelll" 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
@@ -92,15 +92,15 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8&theme=tokyonight"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8&theme=tokyonight"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8"
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Farraelll" 
       align="left" 
       alt="Principais Linguagens" 
       height="200" 
